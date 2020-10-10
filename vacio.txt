@@ -1,4 +1,0 @@
-Hola Mundo
-
-comenzando a probar vim y git
-
